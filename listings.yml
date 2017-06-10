@@ -35,44 +35,44 @@ items:
     dimensions: []
   '4':
     materialName: DIRT
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 46.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 20
+    minPrice: 10
     sellers: []
     dimensions: []
   '5':
     materialName: COBBLESTONE
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 46.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 35
+    minPrice: 10
     sellers: []
     dimensions: []
   '6':
     materialName: WOOD
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 40.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 50
+    minPrice: 25
     sellers: []
     dimensions: []
   '7':
     materialName: SAPLING
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 40.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
+    maxListingTime: 60
+    minListingTime: 50
     maxPrice: 0
     minPrice: 0
     sellers: []
@@ -134,68 +134,68 @@ items:
     dimensions: []
   '13':
     materialName: SAND
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 46.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 35
+    minPrice: 10
     sellers: []
     dimensions: []
   '14':
     materialName: GRAVEL
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 46.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 35
+    minPrice: 10
     sellers: []
     dimensions: []
   '15':
     materialName: GOLD_ORE
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 10.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 60
+    minPrice: 40
     sellers: []
     dimensions: []
   '16':
     materialName: IRON_ORE
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 20.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 60
+    minPrice: 20
     sellers: []
     dimensions: []
   '17':
     materialName: COAL_ORE
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 35.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 40
+    minPrice: 20
     sellers: []
     dimensions: []
   '18':
     materialName: LOG
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 40.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 50
+    minPrice: 15
     sellers: []
     dimensions: []
   '19':
@@ -211,68 +211,68 @@ items:
     dimensions: []
   '20':
     materialName: SPONGE
-    amount: 0
-    chance: 0.0
+    amount: 32
+    chance: 0.00000001
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 30
+    minListingTime: 10
+    maxPrice: 150
+    minPrice: 96
     sellers: []
     dimensions: []
   '21':
     materialName: GLASS
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 10.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 65
+    minPrice: 35
     sellers: []
     dimensions: []
   '22':
     materialName: LAPIS_ORE
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 10.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 70
+    minPrice: 30
     sellers: []
     dimensions: []
   '23':
     materialName: LAPIS_BLOCK
-    amount: 0
-    chance: 0.0
+    amount: 16
+    chance: 0.01
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 100
+    minPrice: 80
     sellers: []
     dimensions: []
   '24':
     materialName: DISPENSER
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 0.1
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 150
+    minPrice: 100
     sellers: []
     dimensions: []
   '25':
     materialName: SANDSTONE
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 46.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 40
+    minPrice: 20
     sellers: []
     dimensions: []
   '26':
@@ -299,35 +299,35 @@ items:
     dimensions: []
   '28':
     materialName: POWERED_RAIL
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 0.1
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 200
+    minPrice: 150
     sellers: []
     dimensions: []
   '29':
     materialName: DETECTOR_RAIL
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 0.1
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 250
+    minPrice: 150
     sellers: []
     dimensions: []
   '30':
     materialName: PISTON_STICKY_BASE
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 0.01
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 300
+    minPrice: 250
     sellers: []
     dimensions: []
   '31':
@@ -365,13 +365,13 @@ items:
     dimensions: []
   '34':
     materialName: PISTON_BASE
-    amount: 0
-    chance: 0.0
+    amount: 1
+    chance: 0.1
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 200
+    minPrice: 150
     sellers: []
     dimensions: []
   '35':
@@ -387,13 +387,13 @@ items:
     dimensions: []
   '36':
     materialName: WOOL
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 20.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 50
+    minPrice: 20
     sellers: []
     dimensions: []
   '37':
@@ -409,112 +409,112 @@ items:
     dimensions: []
   '38':
     materialName: YELLOW_FLOWER
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 30.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 10
+    minPrice: 5
     sellers: []
     dimensions: []
   '39':
     materialName: RED_ROSE
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 30.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 10
+    minPrice: 5
     sellers: []
     dimensions: []
   '40':
     materialName: BROWN_MUSHROOM
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 25.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 13
+    minPrice: 8
     sellers: []
     dimensions: []
   '41':
     materialName: RED_MUSHROOM
-    amount: 0
-    chance: 0.0
+    amount: 10
+    chance: 25.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 13
+    minPrice: 8
     sellers: []
     dimensions: []
   '42':
     materialName: GOLD_BLOCK
-    amount: 0
-    chance: 0.0
+    amount: 32
+    chance: 0.1
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 80
+    minPrice: 60
     sellers: []
     dimensions: []
   '43':
     materialName: IRON_BLOCK
-    amount: 0
-    chance: 0.0
+    amount: 32
+    chance: 0.45
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 70
+    minPrice: 50
     sellers: []
     dimensions: []
   '44':
     materialName: DOUBLE_STEP
-    amount: 0
-    chance: 0.0
+    amount: 32
+    chance: 10.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 30
+    minPrice: 15
     sellers: []
     dimensions: []
   '45':
     materialName: STEP
-    amount: 0
-    chance: 0.0
+    amount: 32
+    chance: 10.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 25
+    minPrice: 10
     sellers: []
     dimensions: []
   '46':
     materialName: BRICK
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 3.0
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 60
+    minPrice: 50
     sellers: []
     dimensions: []
   '47':
     materialName: TNT
-    amount: 0
-    chance: 0.0
+    amount: 64
+    chance: 1.5
     damage: 0
-    maxListingTime: 0
-    minListingTime: 0
-    maxPrice: 0
-    minPrice: 0
+    maxListingTime: 60
+    minListingTime: 10
+    maxPrice: 150
+    minPrice: 100
     sellers: []
     dimensions: []
   '48':
